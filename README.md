@@ -1,4 +1,6 @@
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lazinessdevs&theme=blue-green)
+![Laziness Devs’s Stats](https://github-readme-stats.vercel.app/api?username=lazinessdevs&show_icons=true)
+
+![Laziness Devs's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lazinessdevs&theme=blue-green)
 
 
 - 👋 Hi, I’m @lazinessdevs
