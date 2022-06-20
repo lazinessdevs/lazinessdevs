@@ -1,3 +1,6 @@
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lazinessdevs&theme=blue-green)
+
+
 - 👋 Hi, I’m @lazinessdevs
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
